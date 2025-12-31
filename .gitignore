@@ -3,7 +3,6 @@ _build/
 
 # Dune generated files
 *.install
-*.opam
 *.merlin
 
 # Compiled files
