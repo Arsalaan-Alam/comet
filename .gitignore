@@ -1,0 +1,32 @@
+# Build output directory
+_build/
+
+# Dune generated files
+*.install
+*.opam
+*.merlin
+
+# Compiled files
+*.exe
+*.native
+*.byte
+*.cmo
+*.cmi
+*.cmx
+*.o
+*.a
+*.so
+*.dylib
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dune lock files
+dune.lock/
+
+clean.sh
+LICENSE
+setup.sh
